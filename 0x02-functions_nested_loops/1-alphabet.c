@@ -1,4 +1,4 @@
-#include "a;phabet.h"
+#include "alphabet.h"
 
 /**
  * print_alphabet - Entry point
