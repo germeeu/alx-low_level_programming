@@ -1,13 +1,16 @@
 #include "main.h"
-#include <stdio.h>
 
 /**
- * reset_to_98 - reset theb value of a pointer to 98
- *@m: the integer pointer variable to reset
- * 
- * Return: nothing
+ *swap_int - swaps the values of m and n
+ *@m: pointer 1
+ *@n: pointer 2
+ *Return; 0
  **/
-void reset_to_98(int *m)
+
+void swap_int(int *m, int *n)
 {
-	*m = 98;
+	*m += *n;
+	*n = *m - *n;
+	*m =	*m	-	*n;
 }
+
