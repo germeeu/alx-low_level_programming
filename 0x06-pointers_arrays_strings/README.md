@@ -3,10 +3,10 @@
 
 ## More pointers and arrays projects
 
-<ol>*
-   <li> 0x06-pointers_arrays_strings</li>
-   <li> function that concatenates two strings.</li>
-   <li> function that copies a string</li>
-   <li> function that compares two strings </li>
+<ol>
+   <li> <em>function that concatenates two strings.</em></li>
+   <li> <em>function that concatenates two strings with specify number of bytes.</em></li>
+   <li> <em>function that copies a string</li>
+   <li> function that compares two strings</em> </li>
 </ol>
 
