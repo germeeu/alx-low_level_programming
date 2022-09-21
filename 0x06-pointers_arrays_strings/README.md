@@ -8,6 +8,5 @@
    <li> function that concatenates two strings.</li>
    <li> function that copies a string</li>
    <li> function that compares two strings </li>
- *
 </ol>
 
