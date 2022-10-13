@@ -12,22 +12,22 @@ during the studies of a **Full stack software Engineering** at ALX School.
 ## These are the Files written in C:
 <table>
 	<tr>
-		<th> **Filenames** </th>
-  		<th> **Descriptions** </th>
+		<th> Filenames</th>
+  		<th> Descriptions</th>
 	</tr>
 	<tr>
-		<th> 0-sum_them_all.c </th>
-		<th>  Returns the sum of all its parameters </th>
+		<td> 0-sum_them_all.c </td>
+		<td>  Returns the sum of all its parameters </td>
 	</tr>
 	<tr>
-		<th> 1-print_numbers.c </th>
-		 <th>  Prints numbers with seperators </th>
+		<td> 1-print_numbers.c </td>
+		 <td>  Prints numbers with seperators </td>
 	</tr>
 	<tr>
-		<th> 2-print_strings.c </th>
-		<th> Prints strings with seperators </th>
+		<td> 2-print_strings.c </td>
+		<td> Prints strings with seperators </td>
 	</tr>
 	<tr>
-		<th> 3-print_all.c </th>
-		<th> Prints anything  </th>
+		<td> 3-print_all.c </td>
+		<td> Prints anything  </td>
 	</tr>
